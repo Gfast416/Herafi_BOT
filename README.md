@@ -1,6 +1,4 @@
----
 
-```markdown
 # Herafi_BOT – Optimism Sepolia Automation Bot
 
 Herafi_BOT adalah bot Command-Line Interface (CLI) berbasis Node.js yang dirancang untuk mempermudah interaksi dengan jaringan **Optimism Sepolia**. Bot ini secara otomatis dapat melakukan:
