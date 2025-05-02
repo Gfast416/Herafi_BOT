@@ -28,16 +28,11 @@ Dibangun menggunakan [Ethers.js v6](https://docs.ethers.org/v6/), bot ini sangat
 ```
 
 Herafi\_BOT/
-├── abi/               # ABI kontrak yang digunakan
-├── src/               # File sumber utama bot
-│   ├── claim.js       # Modul klaim faucet
-│   ├── swap.js        # Modul swap token
-│   ├── liquidity.js   # Modul add liquidity
-│   └── remove.js      # Modul remove liquidity
+├── LICENSE            # License information
 ├── .env.example       # Template konfigurasi environment
-├── index.js           # Entry point CLI bot
+├── autoBot.js         # Main script
 ├── package.json       # Metadata dan dependensi npm
-└── README.md          # Dokumentasi proyek
+└── README.md          # This documentation
 
 ````
 
