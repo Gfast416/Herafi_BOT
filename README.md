@@ -67,6 +67,9 @@ Jalankan bot menggunakan:
 
 ```bash
 npm start
+```
+
+---
 
 > Ikuti petunjuk interaktif yang tersedia di terminal. Pastikan saldo wallet cukup untuk membayar gas.
 
@@ -76,7 +79,9 @@ Pastikan `package.json` kamu memiliki bagian berikut:
 "scripts": {
   "start": "node index.js"
 }
+```
 
+---
 
 ## 🌐 Persyaratan
 
@@ -84,17 +89,19 @@ Pastikan `package.json` kamu memiliki bagian berikut:
 * Koneksi internet stabil
 * Wallet dengan test ETH di jaringan **Optimism Sepolia**
 
-
+---
 
 ## 📃 Lisensi
 
 Distributed under the MIT License. Lihat `LICENSE` untuk informasi lebih lanjut.
 
+---
 
 ## 🙌 Kontribusi
 
 Pull request dan isu sangat diterima! Untuk kontribusi besar, silakan buka *issue* terlebih dahulu untuk mendiskusikan perubahan apa yang ingin Anda buat.
 
+---
 
 ## 👤 Pembuat
 
