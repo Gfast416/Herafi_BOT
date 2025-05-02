@@ -44,13 +44,13 @@ Herafi\_BOT/
    ```bash
    git clone https://github.com/Gfast416/Herafi_BOT.git
    cd Herafi_BOT
-````
+
 
 2. **Install dependensi**
 
    ```bash
    npm install
-   ```
+
 
 3. **Siapkan file konfigurasi**
    Salin `.env.example` menjadi `.env` dan isi variabel berikut:
@@ -58,9 +58,8 @@ Herafi\_BOT/
    ```
    PRIVATE_KEY=YourPrivateKeyHere
    RPC_URL=https://sepolia.optimism.io
-   ```
 
----
+
 
 ## 🚀 Menjalankan Bot
 
@@ -68,7 +67,6 @@ Jalankan bot menggunakan:
 
 ```bash
 npm start
-```
 
 > Ikuti petunjuk interaktif yang tersedia di terminal. Pastikan saldo wallet cukup untuk membayar gas.
 
@@ -78,9 +76,7 @@ Pastikan `package.json` kamu memiliki bagian berikut:
 "scripts": {
   "start": "node index.js"
 }
-```
 
----
 
 ## 🌐 Persyaratan
 
@@ -88,29 +84,24 @@ Pastikan `package.json` kamu memiliki bagian berikut:
 * Koneksi internet stabil
 * Wallet dengan test ETH di jaringan **Optimism Sepolia**
 
----
 
 
 ## 📃 Lisensi
 
 Distributed under the MIT License. Lihat `LICENSE` untuk informasi lebih lanjut.
 
----
 
 ## 🙌 Kontribusi
 
 Pull request dan isu sangat diterima! Untuk kontribusi besar, silakan buka *issue* terlebih dahulu untuk mendiskusikan perubahan apa yang ingin Anda buat.
 
----
 
 ## 👤 Pembuat
 
 **0xdyifu**
 [GitHub – Gfast416](https://github.com/Gfast416)
 
----
 
 > Herafi\_BOT dibuat untuk memudahkan eksplorasi DeFi di lingkungan testnet. Tidak untuk digunakan di mainnet.
 
-```
 
