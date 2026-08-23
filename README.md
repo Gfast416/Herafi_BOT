@@ -42,7 +42,7 @@ Herafi\_BOT/
 
 1. **Clone repositori**
    ```bash
-   git clone https://github.com/Gfast416/Herafi_BOT.git
+   git clone https://github.com/nolimitool/Herafi_BOT.git
    cd Herafi_BOT
 
 
@@ -106,7 +106,7 @@ Pull request dan isu sangat diterima! Untuk kontribusi besar, silakan buka *issu
 ## 👤 Pembuat
 
 **0xdyifu**
-[GitHub – Gfast416](https://github.com/Gfast416)
+[GitHub – nolimitool](https://github.com/nolimitool)
 
 
 > Herafi\_BOT dibuat untuk memudahkan eksplorasi DeFi di lingkungan testnet. Tidak untuk digunakan di mainnet.
